@@ -336,9 +336,9 @@ Ce projet est développé dans un cadre académique à l'Université d'Abomey-Ca
 
 ## 📊 Statistiques du Projet
 
-![GitHub last commit](https://img.shields.io/github/last-commit/votre-username/determinants-conditions-vie-menages)
-![GitHub repo size](https://img.shields.io/github/repo-size/votre-username/determinants-conditions-vie-menages)
-![GitHub language count](https://img.shields.io/github/languages/count/votre-username/determinants-conditions-vie-menages)
+![GitHub last commit](https://img.shields.io/github/last-commit/JuniorGANGNON/determinants-conditions-vie-menages)
+![GitHub repo size](https://img.shields.io/github/repo-size/JuniorGANGNON/determinants-conditions-vie-menages)
+![GitHub language count](https://img.shields.io/github/languages/count/JuniorGANGNON/determinants-conditions-vie-menages)
 
 ---
 
